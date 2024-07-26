@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Euler_Criterion_List_Residues"
+name = "Quadratic_Residues_Modulo_a_Prime_Number"
 version = "0.1.0"
