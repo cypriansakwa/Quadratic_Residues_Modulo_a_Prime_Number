@@ -65,7 +65,7 @@ fn mod_exp(mut base: u64, mut exp: u64, modulus: u64) -> u64 {
 }
 
 fn main() {
-    let p = 7;
+    let p = 11;
 
     match list_quadratic_residues(p) {
         Ok(residues) => println!("Quadratic residues modulo {}: {:?}", p, residues),
