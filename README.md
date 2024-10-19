@@ -12,11 +12,23 @@ The program implements the following key functions:
 
 ## Usage
 
-To run the program, ensure you have Rust installed on your machine. Then, use the following commands:
+To run the program, ensure you have Rust installed on your machine. (If Rust is not installed, follow the instructions on the [official Rust website](https://www.rust-lang.org/tools/install) to install it). Then, use the following commands:
 
-```bash
-cargo build --release
-cargo run
+>```
+>cargo build --release
+>cargo run
+## Example
+For $p=11$, the output will be:
+>```
+>Quadratic residues modulo 11: [1, 4, 9, 5]
 
+## Contributing
+  - If you intend to contribute to this project, fork the repository and make a pull request.
+## Acknowledgments
+- Rust
+
+## Clone the repository:
+
+   ```bash
    git clone https://github.com/cypriansakwa/Quadratic_Residues_Modulo_a_Prime_Number.git
    cd Quadratic_Residues_Modulo_a_Prime_Number
