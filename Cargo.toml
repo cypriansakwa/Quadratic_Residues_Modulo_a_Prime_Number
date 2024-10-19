@@ -1,5 +1,5 @@
 [package]
-name = "Quadratic_Residues_Modulo_a_Prime_Number"
+name = "Quadratic_Residue_Calculator_Using_Euler_Criterion"
 version = "0.1.0"
 edition = "2021"
 
